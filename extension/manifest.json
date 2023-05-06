@@ -1,0 +1,6 @@
+{
+  "manifest_version": 3,
+  "name": "DriveMix",
+  "version": "1.0",
+  "description": "Create and play playlists from your Google Drive"
+}
